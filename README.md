@@ -6,7 +6,7 @@ This project analyzes electricity consumption across different states and region
 
 ## 🔗 Useful Links
 
-**Tableau Public Link:** : https://public.tableau.com/app/profile/rakesh.kumawat/vizzes
+-**Tableau Public Link:** : https://public.tableau.com/app/profile/rakesh.kumawat/vizzes
 
 
 
