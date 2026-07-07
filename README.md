@@ -14,15 +14,15 @@ This project analyzes electricity consumption across different states and region
 
 
 
-- **Tableau Story:** https://public.tableau.com/app/profile/rakesh.kumawat/viz/Datavisualization_17830964547610/StoryonElectricityConsumptioninIndia
+- **Tableau Story:** : https://public.tableau.com/app/profile/rakesh.kumawat/viz/Datavisualization_17830964547610/StoryonElectricityConsumptioninIndia
 
 
 
-- **Demo Link:** https://drive.google.com/drive/folders/1ruGsGIlG0TH1TTBJbPHiyYn4FZmOLBo5?usp=sharing
+- **Demo Link:**: https://drive.google.com/drive/folders/1ruGsGIlG0TH1TTBJbPHiyYn4FZmOLBo5?usp=sharing
 
 
 
-- **GitHub Link:** https://github.com/yogeshyadav25/Plugging-into-the-Future
+- **GitHub Link:** : https://github.com/yogeshyadav25/Plugging-into-the-Future
 
 
 
